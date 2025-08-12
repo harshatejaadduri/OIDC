@@ -7,7 +7,7 @@
 ```
 region_code=us-east-1
 cluster_name=roboshop
-ac_id=513993748676
+ac_id=513993748676  #give_your_acc_id
 ```
 
 # Create an IAM OIDC provider. You can skip this step if you already have one for your cluster.
